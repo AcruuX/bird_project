@@ -1,0 +1,48 @@
+.body-bg{
+    background: linear-gradient(90deg, #141E30 0%, #243B55 100%);
+    height: 100vh;
+    color: #fff;
+}
+.content-body{
+    margin-top: 2%;
+}
+.message-bb{
+    height: 1px;
+    width: 90%;
+    margin: auto;
+    margin-top: 5px;
+    background-color: #fff;
+}
+.otp-main input{
+    width: 70px;
+    height: 130px;
+    font-size: 48px;
+    border: 2.5px solid #282D36;
+    border-radius: 8px;
+    margin-left: 30px;
+    color: #000;
+    text-align: center;
+}
+.otp-main input:first-child{
+    margin-left: 0;
+}
+.body-bg button{
+    height: 45px !important;
+    background: linear-gradient(90deg, #F9D423 0%, #E65C00 100%);
+border: 1px solid #FFFFFF;
+border-radius: 10px;
+font-size: 22px;
+font-weight: 500;
+color: #fff;
+margin-top: 15%;
+/* margin-bottom: 46%; */
+}
+
+.submit{
+    margin-top: 0% !important;
+    margin-left: 20%;
+}
+.error{
+    color: red;
+    text-align: center;
+}
